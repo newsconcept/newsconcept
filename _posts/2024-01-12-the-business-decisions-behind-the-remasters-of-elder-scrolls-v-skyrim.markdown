@@ -1,0 +1,29 @@
+---
+layout: post
+title: "The Business Decisions Behind The Remasters of Elder Scrolls V: Skyrim"
+date:   2024-01-12 14:47:24 +0000
+categories: ['News','Gaming']
+excerpt_image: https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/03/The-Elder-Scrolls-V-Skyrim-Special-Edition-Sleeping-Giant-Inn.jpg
+image: https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/03/The-Elder-Scrolls-V-Skyrim-Special-Edition-Sleeping-Giant-Inn.jpg
+---
+
+### The Origins and Editions of Skyrim 
+Released in 2011, **Elder Scrolls V: Skyrim** was an immediate commercial success for Bethesda Softworks. The open world **fantasy role-playing game** allowed players to explore the province of Skyrim and complete myriad quests. Over the following years, Bethesda would release numerous iterations or "editions" of Skyrim across platforms to continue generating revenue from the popular title. The original version launched for PC, **Xbox 360**, and **PlayStation 3**.
+
+![](https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/03/The-Elder-Scrolls-V-Skyrim-Special-Edition-Sleeping-Giant-Inn.jpg)
+### Bethesda Experiments with Creation Engine Updates Using Skyrim
+In anticipation of their upcoming **Fallout 4** release in 2015, Bethesda took the opportunity to experiment with updating their aging Creation game engine using Skyrim. This resulted in **Skyrim Special Edition**, which launched that same year for PC, Xbox One, and PlayStation 4. The Special Edition brought graphical and technical improvements like dynamic depth of field, **screen space reflections**, volumetric lighting, and mod support on consoles. It served as a testbed for Bethesda to upgrade their engine capabilities.
+### Skyrim Special Edition Saw Renewed Sales Success Years Later
+The remaster proved very profitable for Bethesda, generating new sales of Skyrim years after its initial launch across generations of consoles. Many players who owned the original felt the upgrades were worth repurchasing the game. The Special Edition also brought in new audiences who had missed out on Skyrim previously or were waiting for the technical enhancements. Bethesda capitalized on this renewed interest by porting the remaster to Nintendo Switch and VR platforms later on. 
+### Why Fallout 4 Did Not Receive a Special Edition Remaster
+In contrast to Skyrim, Bethesda's 2015 post-apocalyptic **Fallout 4** was not given a remastered re-release like Special Edition. This was likely due to Fallout 4 already utilizing a significantly updated Creation engine. The graphical and technical leap from Fallout 3 to Fallout 4 was much greater than from Skyrim to Special Edition. Bethesda focused their remastering efforts on the older game that was more in need of a technical refresh for new consoles.
+### The Difficulty and Unlikelihood of Remastering Fallout 3
+Compared to Skyrim or Fallout 4, remastering 2008's **Fallout 3** would prove to be a monumentally larger undertaking. The game runs on a heavily modified Gamebryo engine, much older than even Skyrim's Creation engine. A complete rebuild would essentially be required rather than graphical tweaks. The resources needed for such an endeavor were simply not feasible or financially sensible for Bethesda when Focusing on newer titles could generate more profit. As such, a Fallout 3 remaster remains unlikely.
+### Obsidian Developed Fallout New Vegas Within Tight Constraints  
+Released in 2010 by Obsidian Entertainment, **Fallout: New Vegas** also used Gamebryo rather than the updated Creation engine. However, Obsidian worked with an **18-month development cycle** mandated by publisher Bethesda. This put severe constraints on what could be accomplished technically with the aging engine. While a critically acclaimed game, New Vegas would be even more difficult to modernize than Fallout 3 due to its unique technical challenges created by the rushed development.
+### Bethesda Focused Resources on Skyrim While Outsourcing New Vegas
+When Bethesda greenlit Fallout: New Vegas as an spin-off title, they were focused primarily on their flagship Elder Scrolls franchise with Skyrim. Outsourcing New Vegas to Obsidian allowed Bethesda Games Studio to dedicate all their own resources towards the massive Skyrim project. In hindsight, Skyrim has proved the most commercially viable investment, spawning various editions over a decade later. New Vegas, while beloved, does not seem to have the potential for the types of successful remasters that Skyrim has enjoyed.
+### The Various Releases and Platforms for Skyrim Special Edition
+Beyond the initial **PC, Xbox One, and PS4 launch** in 2016, Bethesda has supported Skyrim Special Edition across additional platforms. In 2017, it arrived on Nintendo Switch, allowing players mobility with the remaster. Even more ambitiously, 2018 saw the release of **Skyrim VR** for high-end PC VR headsets. This added full virtual reality support and was built using Special Edition as its base. With constant updates and mod support, Skyrim remains one of the most re-playable open world games available today across console generations.
+### Skyrim Virtual Reality as a Separate Option Built on Special Edition
+While Skyrim VR utilizes Special Edition assets, it stands apart as an entirely new version tailored for room-scale VR. Full 360 degree movement and control schemes were implemented alongside improved visuals optimized for high-resolution headsets. The true sense of **immersion into Tamriel** that VR provides has drawn in many players who already completed the standard game. For Bethesda, Skyrim VR served not only as an innovative technical showpiece but also as a new means of monetizing their longest-running franchise another way years later through the emerging VR medium.

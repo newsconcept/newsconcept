@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Mario Kart 8 Deluxe: Still the Definitive Mario Kart Experience"
+date:   2024-01-11 11:44:57 +0000
+categories: ['News','Gaming']
+excerpt_image: https://cdn.mos.cms.futurecdn.net/MZBSPmavPXSiAmHGmnfmwX.jpg
+image: https://cdn.mos.cms.futurecdn.net/MZBSPmavPXSiAmHGmnfmwX.jpg
+---
+
+## The Massive Selection of Tracks Makes It a Blast to Race On
+### **Varied Locations and Unique Level Designs**
+Mario Kart 8 Deluxe contains an unbelievable 96 tracks in total, making it by far the largest selection of any Mario Kart game. Forty-eight of these tracks are new downloadable content not included in the original Wii U version. Players can now race through exciting new locations like the animal village from Animal Crossing, legendary areas of Hyrule from The Legend of Zelda series, the danger-filled motocross circuits of Excitebike, and so many other fan-favorite worlds. Whether racing on land, sea or air, you'll find incredibly varied track designs that constantly keep the gameplay feeling fresh. With stunning, detailed graphics that truly bring each unique world to life, every race is an immersive joy to experience.
+
+![](https://cdn.mos.cms.futurecdn.net/MZBSPmavPXSiAmHGmnfmwX.jpg)
+### **Endless Hours of Racing Fun Across Iconic Destinations** 
+From the bustling streets of New York City to the jungles of Wild Woods, there are so many memorable tracks to master. Revisiting classic Mario Kart courses like Rainbow Road or Koopa Troopa Cape is always a nostalgic blast. However, the new additional tracks truly take things to another level, transporting racers to unexpected places like Lunar Colony or Mount Wario's frigid slopes. **With close to 100 track options providing endless strategic variety, Mario Kart 8 Deluxe guarantees countless hours of replayability.** No matter how many times you've played them, the joy of zipping around corners on Baby Park or soaring over Sky-High Sundae's cliffs never gets old.
+## Select From a Huge Roster of Characters With Customizable Options 
+### **A Massive Character Selection For Any Playstyle**
+Mario Kart 8 Deluxe offers players an incredible choice of Nintendo heroes and villains to take into battle. With over 40 characters to pick from, there is a driver for everyone. Want to play as a lightweight racer like Toad or Isabelle for tight cornering? Or go heavy with Bowser or King Boo and smash through opponents? You can even play as inklings from Splatoon or link from The Legend of Zelda series. Each character comes with their own unique stats and handling to find the perfect fit. 
+### **Extensive Customization For a Truly Unique Ride**
+In addition to choosing your driver, you'll also get to fully customize your ride with different vehicle weights, tires, gliders, and more. Experimenting with part combinations is key to gaining that competitive edge. Low-rolling tires may help on slick courses but fall short on off-road tracks. A heavy frame can bump opponents aside but lacks agility. Take your favorite character and build the ultimate kart through countless part options for maximum performance. **With so many customizable vehicle builds providing strategic depth, no two player's setups will ever be the same.**
+## Master Wacky Strategies With Classic Item Shenanigans 
+### **Chaotic Item Battles Are Mario Kart Tradition**
+One aspect that has always defined the pure joy of Mario Kart is the wild item battles. Whether you're scooping up shells, spraying banana peels, or detonating bombs, items add an essential layer of mayhem to any race. Mastering strategic item play is key, like launching a perfectly-timed red shell to steal first at the finish or holding onto that lightning bolt just a little longer. The classic Mario Kart items are all here in beautifully chaotic effect.
+### **New Special Items Upend Expectations**  
+Mario Kart 8 Deluxe introduces a new customizable special item option that opens up creative new strategic possibilities in matches. Players can now choose between power items like the boomerang or giant banana vs defensive options such as the super horn or bob-omb cannon. Seeing someone pull out an unexpected special item is sure to shake up any race. **Between classic Mario Kart shenanigans and innovative new special items, no two races stay predictable for long.**
+## Online and Local Multiplayer Provides Endless Competition
+### **Race Against Players Around the Globe** 
+Perhaps one of the best additions to Mario Kart 8 Deluxe is the vibrant online multiplayer. Jump online to find immediate matches with racers from all over the world. Qualifying in ranked matches earns global experience points to rise up the leaderboards. Public lobbies also allow for more casual play sessions with people of any skill level. Even years after release, you can still easily connect with a steady stream of global competitors ensuring matches stay lively. 
+### **Rivalry Hits Close to Home Too**  
+When you want competitive fun on the couch, local and online multiplayer satisfies perfectly. Race side by side with up to 8 Switch consoles locally over a wireless connection. Online private matches even let distant friends battle it out. Nothing is more satisfying than beating a close friend or family member in person. **Whether dominating online racers worldwide or dominating your neighbor on the living room couch, multiplayer in Mario Kart 8 Deluxe delivers top-tier competition and rivalry.**
+## Post-Launch Content Keeps the Excitement Rolling
+### **Unlock New Rewards and Take on Tougher Challenges** 
+While Mario Kart 8 Deluxe features fewer true unlockables than past entries, earning Gold Mario or snagging new vehicle customization options through gameplay provides ample motivation to keep racing. Challenging yourself with the insanely fast 200cc speed class or achieving the 3-star rankings on all cups proves this game has depth for experts. Global leaderboards for time trials also let you compare records with the best racers online. 
+### **Backwards Compatibility Means Unlimited Race Tracks** 
+In a rare and player-friendly move, Mario Kart 8 Deluxe makes all previous DLC tracks from the Wii U version completely compatible right from the start. This means access to a staggering 96 courses as mentioned before. But Nintendo also continues supporting new content, recently adding the Mercedes-Benz vehicle pack. **With both legacy and brand new DLC, Mario Kart 8 Deluxe guarantees a virtually endless stream of tracks to explore for years to come.**
+## Mario Kart 8 Deluxe Remains the Definitive Racing Experience 
+Mario Kart 8 first debuted to universal acclaim on the Wii U, and its Deluxe Switch port only strengthens its claim as the absolute pinnacle of arcade kart racing. With astonishingly large track selection, deep character and kart customization, chaotic local and online multiplayer, and a truly endless amount of post-launch content, no other entry can compete with its breadth of options. **Whether you're a series veteran or newcomer, Mario Kart 8 Deluxe delivers unparalleled accessible fun and lasting appeal that cements its rightful place as the definitive Mario Kart. It's a true system-seller must-own for any Nintendo Switch owner.** Generations of fans will continue perfecting their drift skills and perfecting new tricks on the excellent lineup of old favorites and fresh courses for many races to come. Mario Kart sets the gold standard for the genre, and its Deluxe edition ensures that status remains undisputed.
