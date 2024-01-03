@@ -60,6 +60,26 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
+#gensocial config
+jekyll-gensocial:     # These are the default settings
+  enabled: true       # Disables the output
+  size:               # The size of the overall canvas
+    width: 1920
+    height: 1080
+  background:         # The background image
+    path: nil
+  text:
+    string: nil       # Overrides the post/page title
+    font_path: nil    # Path to your custom font
+    pointsize: 100    # Font size
+    fill: "#000000"   # Font color
+    rect:             # Text will appear inside this frame
+      size:
+        width: 1600
+        height: 500
+      origin:
+        x: 150
+        y: 100
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
