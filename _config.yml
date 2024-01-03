@@ -1,6 +1,6 @@
 # Site
-name: 'HotNewsWave'
-description: 'Centre Gateway to Diverse Perspectives on News and Events'
+name: 'News Concept'
+description: 'News and Events'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: "https://newsconcept.github.io" # the base hostname & protocol for your site, e.g. https://example.com
@@ -19,17 +19,17 @@ plugins:
     - jekyll-seo-tag
     - jekyll-redirect-from
 authors:
-    ken:
-      name:           Ken
-      site:           https://citynewshub.github.io/lib/index.html
+    tony:
+      name:           tony
+      site:           https://newsconcept.github.io/index.html
       avatar:         assets/images/avatar1.jpg
-      bio:            "Hi, I am Ken, the Blog Editor of \"City Hub\", the the site you're currently previewing. I hope you like it!"
+      bio:            "Hi, I am Tony, the Blog Editor of \"City Hub\", the the site you're currently previewing. I hope you like it!"
       email:          puppy101.org@gmail.com
       twitter:        https://twitter.com/puppy101.org
 
     hana:
       name:           Hanna
-      site:           https://citynewshub.github.io/lib/index.html
+      site:           https://newsconcept.github.io/index.html
       avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          citylodge.org@gmail.com
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: ken
+      author: tony
       avatar: assets/images/avatar1.jpg
 
   # all pages
