@@ -5,7 +5,7 @@ date:   2023-12-26 00:40:02 +0000
 categories: ['News','Gaming']
 excerpt_image: https://trendblog.net/wp-content/uploads/2013/11/xbox-one-vs-playstation-4.png
 image: https://trendblog.net/wp-content/uploads/2013/11/xbox-one-vs-playstation-4.png
-tags: ['Featured','Gaming']
+tags: ['Featured','Console']
 ---
 ## Background and Personal Preferences
 Growing up, I've owned multiple consoles from different manufacturers. **My gaming preferences have evolved** over the years based on the exclusive games available on each system. In recent generations, my PS4 purchase was largely influenced by Sony's strong lineup of exclusive titles that matched my preferred genres like action-adventure games more so than the Xbox One options at the time. However, I still have a strong interest in the Xbox ecosystem and feel the console has numerous strengths to offer gamers despite not having must-have exclusive games in my primary genres of interest. Let's break down the key factors to consider when deciding between these two powerful systems.
