@@ -18,6 +18,7 @@ plugins:
     - jekyll-paginate
     - jekyll-seo-tag
     - jekyll-redirect-from
+    - jekyll-gensocial
 authors:
     tony:
       name:           tony
