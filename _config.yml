@@ -1,0 +1,65 @@
+# Site
+name: 'HotNewsWave'
+description: 'Centre Gateway to Diverse Perspectives on News and Events'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+url: "https://newsconcept.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+# baseurl: '/'
+disqus: 'puppy101.org'
+email: 'puppy101.org@gmail.com'
+
+include: ["_pages"]
+#permalink: /:title/
+permalink: /:name/
+# Plugins
+plugins:
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-paginate
+    - jekyll-seo-tag
+    - jekyll-redirect-from
+authors:
+    ken:
+      name:           Ken
+      site:           https://citynewshub.github.io/lib/index.html
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hi, I am Ken, the Blog Editor of \"City Hub\", the the site you're currently previewing. I hope you like it!"
+      email:          puppy101.org@gmail.com
+      twitter:        https://twitter.com/puppy101.org
+
+    hana:
+      name:           Hanna
+      site:           https://citynewshub.github.io/lib/index.html
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          citylodge.org@gmail.com
+      twitter:        https://twitter.com/puppy101.org
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: ken
+      avatar: assets/images/avatar1.jpg
+
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
