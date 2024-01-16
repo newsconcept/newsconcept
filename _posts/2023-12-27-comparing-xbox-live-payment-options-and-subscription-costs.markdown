@@ -5,7 +5,7 @@ date:   2023-12-27 05:38:36 +0000
 categories: ['News','Gaming']
 excerpt_image: http://girlgamers.co.uk/wp-content/uploads/2010/08/xbox-live-price-november.jpg
 image: http://girlgamers.co.uk/wp-content/uploads/2010/08/xbox-live-price-november.jpg
-tags: ['Featured','Xbox Live Payment']
+tags: ['featured','Xbox Live Payment']
 
 ---
 

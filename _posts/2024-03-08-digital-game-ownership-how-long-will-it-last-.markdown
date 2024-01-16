@@ -5,7 +5,7 @@ date:   2024-03-08 21:37:32 +0000
 categories: ['News','Gaming']
 excerpt_image: https://www.kocpc.com.tw/wp-content/uploads/2021/11/1636698713-95db27d89d9bf3d5cb3c43a53caf2d45.jpg
 image: https://www.kocpc.com.tw/wp-content/uploads/2021/11/1636698713-95db27d89d9bf3d5cb3c43a53caf2d45.jpg
-tags: ['Featured','Gaming']
+tags: ['featured','Gaming']
 ---
 
 ### Introduction

@@ -5,7 +5,7 @@ date:   2023-12-25 09:19:26 +0000
 categories: ['Gaming','Roblox']
 excerpt_image: https://www.i-programmer.info/images/stories/News/2018/Aug/A/OPENAI5prob.JPG
 image: https://www.i-programmer.info/images/stories/News/2018/Aug/A/OPENAI5prob.JPG
-tags: ['Featured','Gaming']
+tags: ['featured','Gaming']
 ---
 ## The Groundbreaking OpenAI Five Experiment
 In 2018, AI research company OpenAI shocked the Dota 2 world by unveiling a team of five bots named OpenAI Five that had reached human professional level play after training for ten months through self-supervised learning. This marked a **major milestone in AI versus human competition** within esports. The bots faced off against top Dota 2 pro player Blitz and his team in a demonstration match that garnered widespread media attention across technology and gaming publications.
